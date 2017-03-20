@@ -1,4 +1,29 @@
 {
+  "name": "ysfproxy",
+  "version": "0.0.1",
+  "description": "http proxy for SailFish",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ysfserver": "./bin/proxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSFA/ysfproxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NSFA/ysfproxy/issues"
+  },
+  "homepage": "https://github.com/NSFA/ysfproxy#readme",
+  "keywords": [
+    "mock",
+    "server",
+    "proxy",
+    "NSFA"
+  ],
+  "author": "波比(｡･∀･)ﾉﾞ",
+  "license": "MIT",
   "dependencies": {
     "anyproxy": "^3.10.4"
   }
