@@ -1,32 +1,19 @@
 {
   "name": "ysfproxy",
-  "version": "0.0.1",
-  "description": "http proxy for SailFish",
+  "version": "0.0.2",
+  "description": "SailFish Proxy Platform App",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron .",
+    "release" : "electron-packager . ysfproxy --mac  --icon=./icon.icns --electron-version  --out=../ --overwrite=true --ignore=node_modules/electron --ignore=node_modules/.bin --ignore=.git --ignore=dist --prune=true"
   },
-  "bin": {
-    "ysfserver": "./bin/proxy.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NSFA/ysfproxy.git"
-  },
-  "bugs": {
-    "url": "https://github.com/NSFA/ysfproxy/issues"
-  },
-  "homepage": "https://github.com/NSFA/ysfproxy#readme",
   "keywords": [
-    "mock",
-    "server",
-    "proxy",
-    "NSFA"
+    "Electron",
+    "proxy"
   ],
-  "author": "波比(｡･∀･)ﾉﾞ",
-  "license": "MIT",
-  "dependencies": {
-    "anyproxy": "^3.10.4",
-    "commander": "^2.9.0",
-    "colors" : "^1.1.2"
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
   }
 }
