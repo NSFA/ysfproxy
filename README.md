@@ -6,6 +6,8 @@
 
 * [ysfproxy-V0.1-beta](http://nimtest.nos.netease.com/MTAxODA5MA==/bmltYV8xNzMwMzQ0XzE0OTE4MDQwNDU3MDFfMjY3ZWYzOTEtZGEyNS00NjQwLTgxODUtYmNjNTU1YzQzNzdm?download=ysfproxy-v0.1-beta.zip)
 
+* [ysfproxy-V0.2-beta](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODE0MjkxMzk5X2VlNTA1YjEzLWZlNzEtNDAxYS04NDQ4LWM3Y2IyZTdhZDk3NA==?download=ysfproxy-v0.2-beta.zip)
+
 
 ## License
 
