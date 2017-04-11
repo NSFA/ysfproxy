@@ -12,8 +12,9 @@
 
 #### 下载地址
 
-**Mac版本** ： [ysfproxy-V0.1-Mac](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODE0MjkxMzk5X2VlNTA1YjEzLWZlNzEtNDAxYS04NDQ4LWM3Y2IyZTdhZDk3NA==?download=ysfproxy-v0.1-mac.zip)
-**Win32版本**  [ysfproxy-V0.1-Win32](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODk1MTUwNzc2XzVlODc0ZjMwLTA1ZjUtNGJlYS1iNDE1LWFhYjQ1NjczZTQ3MQ==?download=ysfproxy-v0.1-win.zip)
+**Mac版本** : [ysfproxy-V0.1-Mac](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODE0MjkxMzk5X2VlNTA1YjEzLWZlNzEtNDAxYS04NDQ4LWM3Y2IyZTdhZDk3NA==?download=ysfproxy-v0.1-mac.zip)
+
+**Win32版本** : [ysfproxy-V0.1-Win32](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODk1MTUwNzc2XzVlODc0ZjMwLTA1ZjUtNGJlYS1iNDE1LWFhYjQ1NjczZTQ3MQ==?download=ysfproxy-v0.1-win.zip)
 
 ## License
 
