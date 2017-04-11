@@ -4,10 +4,16 @@
 
 ## 版本列表
 
-* [ysfproxy-V0.1-beta](http://nimtest.nos.netease.com/MTAxODA5MA==/bmltYV8xNzMwMzQ0XzE0OTE4MDQwNDU3MDFfMjY3ZWYzOTEtZGEyNS00NjQwLTgxODUtYmNjNTU1YzQzNzdm?download=ysfproxy-v0.1-beta.zip)
+### ysfproxy-V0.1 版本
 
-* [ysfproxy-V0.2-beta](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODE0MjkxMzk5X2VlNTA1YjEzLWZlNzEtNDAxYS04NDQ4LWM3Y2IyZTdhZDk3NA==?download=ysfproxy-v0.2-beta.zip)
+1. 修复些Bug
+2. 添加菜单栏
+3. 支持`window`版本 和 `mac` 版本
 
+#### 下载地址
+
+**Mac版本** ： [ysfproxy-V0.1-Mac](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODE0MjkxMzk5X2VlNTA1YjEzLWZlNzEtNDAxYS04NDQ4LWM3Y2IyZTdhZDk3NA==?download=ysfproxy-v0.1-mac.zip)
+**Win32版本**  [ysfproxy-V0.1-Win32](https://nim.nos.netease.com/MTAxOTQzOA==/bmltYV8xNjY5MjUzMl8xNDkxODk1MTUwNzc2XzVlODc0ZjMwLTA1ZjUtNGJlYS1iNDE1LWFhYjQ1NjczZTQ3MQ==?download=ysfproxy-v0.1-win.zip)
 
 ## License
 
